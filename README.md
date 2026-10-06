@@ -33,7 +33,7 @@ REPORTING     KPI dashboards · Structured reporting · Closed-system databases
 
 ### Highlights
 
-| | |
+| Scale | What I did |
 |---|---|
 | **200+ vehicles** | Directed fleet and dispatch operations across 5+ sites, 100+ movements a day |
 | **500+ personnel** | Led with 24/7 operational readiness |
