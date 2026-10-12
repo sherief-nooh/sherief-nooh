@@ -1,15 +1,14 @@
 <h1 align="center">Sherief Nooh</h1>
-<h3 align="center">Security & Logistics Operations · Former Major, Egyptian Ministry of Interior</h3>
+<h3 align="center">Supply Chain, Logistics & Security Operations · Former Major, Egyptian Ministry of Interior</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_immediately-2f6b4a?style=for-the-badge" alt="Available immediately">
   <img src="https://img.shields.io/badge/Experience-12_years-b4620a?style=for-the-badge" alt="12 years">
-  <img src="https://img.shields.io/badge/UAE-Driving_license-5a6b78?style=for-the-badge" alt="UAE driving license">
+  <img src="https://img.shields.io/badge/FIATA-Supply_Chain_Management-1f3a4d?style=for-the-badge" alt="FIATA Supply Chain Management">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sherief-nouh/"><img src="https://img.shields.io/badge/LinkedIn-sherief--nouh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://sherief-nooh.github.io"><img src="https://img.shields.io/badge/Portfolio-View_case_files-15202A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sherief-nooh.github.io"><img src="https://img.shields.io/badge/Portfolio-View_case_studies-15202A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:sherief.nooh@gmail.com"><img src="https://img.shields.io/badge/Email-sherief.nooh@gmail.com-B4620A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -17,18 +16,19 @@
 
 ### About
 
-I spent 12 years in the Egyptian Ministry of Interior (2013–2025), rising to the rank of Major. My work covered security operations, fleet and dispatch, warehouse governance and large-event logistics. Today I advise clients in the UAE and Egypt on risk assessment, SOPs and operational readiness.
+I spent 12 years in the Egyptian Ministry of Interior (2013–2025), rising to the rank of Major. My work covered fleet and dispatch, warehouse and inventory control, procurement and budget, security operations and large-event logistics. I hold a FIATA Higher Diploma in Supply Chain Management, and today I advise logistics, security and construction clients on risk assessment, SOPs and operational readiness.
 
 This GitHub is where I rebuild that operational work as open tools, using synthetic data, so the methods can be shared without sharing anything confidential.
 
 ### What I do
 
 ```text
-SECURITY      Risk, threat & vulnerability assessment · Event security · VIP secure movements
-              Guard force & shift supervision · Incident & crisis response
-LOGISTICS     Fleet & dispatch operations · Preventive maintenance · FIFO / FEFO governance
-              Inbound / outbound coordination · Vendor & contract follow-up
-REPORTING     KPI dashboards · Structured reporting · Closed-system databases
+SUPPLY CHAIN  Inbound / outbound logistics · Warehouse & inventory control (FIFO / FEFO)
+              Vendor, procurement & contract coordination · Budget control · Freight forwarding
+FLEET         Fleet management · Preventive maintenance · Dispatch, route & journey planning
+SECURITY      Risk, threat & vulnerability assessment · Site & event security · VIP movements
+              Guard force supervision · Incident, crisis & emergency response
+REPORTING     KPI dashboards · SOP development · Compliance audits & HSE
 ```
 
 ### Highlights
@@ -43,12 +43,13 @@ REPORTING     KPI dashboards · Structured reporting · Closed-system databases
 | **13 departments** | Built a closed, offline performance database that replaced paper-only reporting |
 | **91 feddans** | Supported logistics and multi-agency coordination for Egyptian Police Day 2025 |
 | **FIFO / FEFO** | Enforced warehouse discipline for stronger inventory accuracy |
+| **Procurement** | Managed vendors, contracts and monthly budget allocations within approved plans |
 
-### Projects in progress
+### Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| `security-risk-register` | 5×5 likelihood × impact register with scoring, heat map and mitigation tracking | Excel · Python |
+| [`security-risk-register`](https://github.com/sherief-nooh/security-risk-register) ✅ | 20-risk register for a logistics site; mitigation cuts total risk by 54% | Excel · Python |
 | `fleet-readiness-dashboard` | Availability, maintenance backlog, fuel per vehicle and repeat-fault alerts | Python · Pandas · Power BI |
 | `ops-sop-library` | Reusable SOPs for journey management, dispatch, incident reporting and evacuation | Markdown |
 | `dept-performance-db` | Demo of a multi-department reporting database with the SQL behind the monthly report | SQL · SQLite |
@@ -56,9 +57,11 @@ REPORTING     KPI dashboards · Structured reporting · Closed-system databases
 ### Tools
 
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-Daily-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Learning-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Learning-336791?style=flat-square&logo=sqlite&logoColor=white)
+![SAP MM](https://img.shields.io/badge/SAP-MM-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Queries-336791?style=flat-square&logo=sqlite&logoColor=white)
+![Office 365](https://img.shields.io/badge/Microsoft_365-Daily-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Credentials
