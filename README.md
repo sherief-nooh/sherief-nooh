@@ -49,8 +49,8 @@ REPORTING     KPI dashboards · SOP development · Compliance audits & HSE
 
 | Project | What it does | Stack |
 |---|---|---|
+| [`fleet-readiness-dashboard`](https://github.com/sherief-nooh/fleet-readiness-dashboard) ✅ | KPI pack for a 200-vehicle fleet; controls cut breakdowns 37% and fuel exceptions 92% | Power BI · DAX |
 | [`security-risk-register`](https://github.com/sherief-nooh/security-risk-register) ✅ | 20-risk register for a logistics site; mitigation cuts total risk by 54% | Excel · Python |
-| `fleet-readiness-dashboard` | Availability, maintenance backlog, fuel per vehicle and repeat-fault alerts | Python · Pandas · Power BI |
 | `ops-sop-library` | Reusable SOPs for journey management, dispatch, incident reporting and evacuation | Markdown |
 | `dept-performance-db` | Demo of a multi-department reporting database with the SQL behind the monthly report | SQL · SQLite |
 
